@@ -1,4 +1,4 @@
-<h2> Hi, I'm Vanessa D'mello! </h2>
+<h2> Hey, I'm Vanessa D'mello! </h2>
 <p><em>Studying at <a href="http://www.frcrce.ac.in/">Fr. Conceicao Rodrigues College of Engineering</a>
   </br>App Developer at <a href="https://www.eqlibria.com/">EQlibria</a>
 </em></p>
@@ -13,9 +13,9 @@
 ```javascript
 const vanessa = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Dart, Flutter, Java],
-  tools: [React, Node],
-  projects: ["web-development", "mobile-development"],
+  code: [Javascript, HTML, CSS, Flutter, Java],
+  tools: [React, Node, MongoDB, SQL, Express],
+  projects: ["web-development", "app-development"],
   techCommunities: CodeLabs CRCE,
   hobbies: ["football", "reading"]
 }
