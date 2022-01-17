@@ -1,12 +1,19 @@
 <h2> Hey, I'm Vanessa D'mello! </h2>
+
+
+<img src="MyPhoto.jpg" alt="avatar" width="20%" align="right">
+
 <p><em>Studying at <a href="http://www.frcrce.ac.in/">Fr. Conceicao Rodrigues College of Engineering</a>
   </br>App Developer at <a href="https://www.eqlibria.com/">EQlibria</a>
 </em></p>
 
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/vanessadmello)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/vanessa-dmello-5513711a4/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-dmello/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/dmello.vanessa/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dmello.vanessa2001@gmail.com)
+
+
 
 ### A little more about me...  
 
